@@ -1,0 +1,26 @@
+push them cuoi pop loai cuoi
+unshift them dau  shift loai dau
+var bien toan cuc neu nam ngoai
+neu khai bao var trong ham bien cuc bo (ko var toan cuc)
+Trong JavaScript, bạn có thể xác định loại biến hoặc giá trị bằng typeoftoán tử
+LEYER LÀ các lớp chồng lên nhau lớp video lớp nhạc
+
+git remote remove origin
+de xoa cac link dia chi cu
+
+loi src refspec master does not match any.
+sua thanh git push origin master
+hoac lenh thu 2 git push origin HEAD:master   (can chap nhan phai requests)
+
+gp cho da nhap dia chi
+
+git pull lay ve git pull origin master
+
+git log check up date ai lam
+
+neu commit lan 2 
+  git add (ten file)+git commit + gpush
+
+neu ca 2 dong loat sua phai get pull moi nhat ve may roi moi dc sua
+
+luu y khi deploy surge thi mac dinh no se chon tep index.html de vao muon sua len web them ten vd abc.index
