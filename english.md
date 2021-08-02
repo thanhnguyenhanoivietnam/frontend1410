@@ -48,3 +48,96 @@ dong tu bat quy tac loai 2 thuong la duoi eaten been ...
 38. I ______ to the same barber since last year.B. have been going
 39. Her father ______ when she was a small girl.D. had died->B
 40. Last week, my professor promised that he ________ today C. comes->A. would come(chuyen tu cau truc tiep sang gian tiep)
+
+### bai 2
+1. After Mrs. Wang had returned to her house from work, she was cooking dinner. was cooking->cooked (ve truoc
+dung qua khu hoan thanh hanh dong xay ra va ket thuc trc 1 hanh dong khac cung xay ra va ket thuc trong qua khu)
+2. Jimmy threw the ball high in the air, and Betty catching it when it came down. catching->caught(qua khu don dien ta 1 loat cac hanh dong da xay ra trong qua khu)
+3. Linda has worn her new yellow dress only once since she buys it. buys->bought(thi hien tai hoan thanh thi sau since+qkd)
+4. Last week Mark told me that he got very bored with his present job and is looking for a new one.is looking->was looking (hien tai tiep dien cau truc tiep chuyen thanh qua khu tiep dien khi gian tiep)
+5. Having fed the dog, he was sat down to his own meal. was sat->sat chu the la nguoi ta dung dang chu dong (sau khi cho cho an anh y ngoi xuong an phan an cua minh)
+6. When I turned on my computer, I was shocked to find some junk mail, and I just delete it all.delete-> deleted (dien ta 1 loat hanh dong da xay ra trong qua khu)
+7. They are going to have to leave soon and so do we.(they are to be nen ve sau cung phai dung be)so do -> so are
+8. The boss laughed when the secretary has told him that she really needed a pay rise.  has told->told (a pay rise tang luong)
+9. The telephone rang several times and then stop before I could answer it. stop->stopped
+10. Debbie, whose father is an excellent tennis player, has been playing tennis since ten years.since->for
+11. I have seen lots of interesting places when I went on holiday last summer.have seen->saw(dien ta hanh dong da ket thuc hoan  toan trong qua khu dac biet do co last)
+12. When my cat heard a noise in the bushes, she stopped moving and listen intently.moving ko phai dong tu correct listen->listened (cac hanh dong lien tiep trong qua khu)
+13. I think it‘s time you must change your way of living.cau truc it's time sb did sth change->changed
+14. Roger felt the outside of his pocket to make sure his wallet is still there.is still ->was still(co to be nen qua khu chia to be truoc) (2 ve)
+15. When I‘m shopping in the supermarket, I ran into an old friend who I hadn‘t met for five years. am shopping->was shopping
+16. The police arrested the man while he is having dinner in a restaurant.is having ->was having
+17. Peter and Wendy first met in 2006, and they are married for three years now.are -> have been (hien tai hoan thanh )
+18. Some people are believing there is life on other planets.are believing ->believe thi hien tai (believe hiem khi chia o dang V-ing)
+19. Recently, the island of Hawaii had been the subject o fintensive research on the occurrence of earthquakes.(recently hien tai hoan thanh) had been -> has been
+20. Every morning, the sun shines in my bedroom window and waking me up.waking->wakes
+
+### bai 3
+1. Eight years ago we started writing to each other.
+ D. We have been writing to each other for eight years.
+2. The boy was so lazy that he couldn’t stay up late to learn his lessons.
+ A. The boy was lazy enough not to stay up late to learn his lessons.
+ ->B. The boy was too lazy to stay up late to learn his lessons.
+3. My father is tired of seeing any violent films.
+ D. My father never wants to see another violent film.
+4. As soon as he waved his hand, she turned away.
+ B. No sooner had he waved his hand than she turned away.
+5. John wishes he had remembered to send Mary a Christmas card.
+ B. John regrets forgetting not to send Mary a Christmas card.
+ ->D. John regrets forgetting to send Mary a Christmas card.
+6. My father hasn’t smoked cigarettes for a month.
+ A. It’s a month since my father last smoked cigarettes.
+7. Having finished their work, the workers expected to be paid.
+ A. The workers expected to be paid because they had finished their work.
+8. Mr. Brown bought this car five years ago.
+ D. It is five years ago since Mr. Brown has bought this car.
+ ->C. Mr. Brown has had this car for five years .(hien tai hoan thanh)
+9. John used to write home once a week when he was abroad.
+ C. John never forgot to write a weekly letter home when he was abroad.(used to thuong xuyen)
+ ->A. John doesn’t write home once a week any longer.
+10. I haven’t enjoyed myself so much for years.(da nhieu năm tôi ko yêu bản thân mình đến thế)
+ C. It was years since I had enjoyed myself so much. 
+ ->A. It’s years since I enjoyed myself so much.(hien tai)   
+
+
+### Chuyen de 2 SU HOA HOP GIUA CHU NGU VA DONG TU (SUBJECT-VERB AGREEMENT)
+1. Chủ ngữ là một danh động từ, động từ nguyên thể hay một mệnh đề: động từ chia theo ngôi thứ 3 số ít.
+ Ex: Walking in the rain is not a good idea.
+ Ex: To learn a foreign language is necessary.
+ Ex: That you get high grades in the school is very important.
+2. Chủ ngữ là một nhóm từ thì phải tìm từ chính và chia động từ phù hợp với từ đó
+ Ex: A list of new books has been posted in the library.(List la tu chinh)
+ Ex: The shops along the mall are rather small (shops la chinh)
+3.S1+ of/as well as/with/together with/in addition to/along with/accompanied by/no less than +S2->Dong tu hoa hop voi S1 
+ Ex: The professor together with his three students has been called to court.(the professor->has been)
+ Ex: The mayor as well as his councilmen refuses to endorse the bill.(the mayor - refuses)
+ Ex:the students along with their form teacher were at the beach yesterday.
+4. Chủ ngữ là đại từ bất định :One,every one,no one,nobody,anyone,anybody,someone,somebody,everybody,anything,something,nothing,everything=> động từ chia số ít 
+ Ex:Nobody is at home now.
+ Ex: Is there anybody here?
+ Ex: Everything has been all right so far.
+5. Chủ ngữ kép 
+ a. S1+and+S2+...=> động từ chia theo chủ ngư ở số nhiều.
+   Ex: England, Scotland and Wales form Great Britain.   
+   Ex: EJohn and I are cousins.
+   Ex: The headmaster and the teacher are talking.
+  *Ngoai lệ (vs dấu hiệu nhận bt and) Trong trường hợp 2 danh từ nối với nhau trong trường hợp cùng 1 người 1 bộ hoặc là 1 món ăn (vs trường hợp cùng 1 người thì dấu hiệu nhận bt là danh từ 2 ko có the , con với món ăn thì tuy người nói)
+    Ex: The great doctor and dicoverer is no more.
+    EX: Whisky and soda has alaways been his favourite drink.
+
+     EX: Fish and chips is a popular meal in Britain,
+     Ex: Fish and chips make a good meal.
+   *Node: "Each" of "every" đứng trước các chủ ngư số ít đuoc nối bởi từ "and" chia theo động từ số ít 
+     Ex: Each boy and each girl is to work independently.
+ b. S1 or S2 => Động từ hòa hợp với S2:
+    Ex: Has your mother or father given permission to use the car ?       
+ c. Either + S1 or S2 => V hoa hop voi S2:
+    Neither+ S1+ Nor+ S2 =>(Phu dinh)
+     Ex: Neither the students nor their teacher regrets the approach of summer.
+      (Cả học sinh và giáo viên của họ đều không hối tiếc về cách tiếp cận của mùa hè)
+    Each/Every/Either/Neither +  Singular noun                                     + singular verb
+        (co E)                      of + plural noun/pronoun (danh tu dai tu so nhieu)
+    All/both/few/a few/many/several/some + plural noun                            -> Plural verb
+                                         of + plural noun/pronoun (danh tu dai tu so nhieu)      
+    All/some/little/a little            +non count noun                            => singular verb
+          (all little)                   of + Non count noun  (danh tu ko dem duoc)                                                   
