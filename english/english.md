@@ -6,6 +6,7 @@ dong tu bat quy tac loai 2 thuong la duoi eaten been ...
 - co loai them n o cuoi nhu choose->chose->chosen(know->knew->known)
 - sing sang sung
 ### today past tense + past perfect + past perfect continuous
+### CHUYEN DE 1 CÁC THÌ TRONG TIẾNG ANH
 ### bai tap
 1. When I last saw him, he _____ in London.C. was living(khi t thay anh ta lan cuoi anh ta van dang song o london)
 2. We _______ Dorothy since last Saturday.B. haven’t seen
@@ -140,4 +141,25 @@ dung qua khu hoan thanh hanh dong xay ra va ket thuc trc 1 hanh dong khac cung x
     All/both/few/a few/many/several/some + plural noun                            -> Plural verb
                                          of + plural noun/pronoun (danh tu dai tu so nhieu)      
     All/some/little/a little            +non count noun                            => singular verb
-          (all little)                   of + Non count noun  (danh tu ko dem duoc)                                                   
+          (all little)                   of + Non count noun  (danh tu ko dem duoc)            
+6. Chủ ngữ là danh từ tập hợp dùng như 1 đơn vị => V chia theo S số ít (group/jury/army/family/class/committee/team/enemy/council...)(tât cả đều làm chung 1 hành động như đá bóng với nhau chơi với nhau)
+   Ex: The foot ball team practises every day.
+
+ *Danh từ tập hơp chỉ từng thành viên => V chia theo S số nhiều
+   Ex: THe football team buy their own uniforms(their).(buy so nhieu)(mỗi ng cái áo khác nhau mua lúc này lúc kia)
+   Ex: John has just arrived and now the family are all here(are)
+ *Các danh từ như :the police,the military,the people,cattle,poultry,clergy...=>V chia theo S so nhieu
+   Ex: The police are questioning him.
+  *** Danh từ tập hợp được hình thành bởi "the+adj"=>V chia theo S số nhiều
+    EX: The sick need(chia số nhiều) medical care and tenderness.
+  *** Danh từ tập hợp như furniture/luggage/information/knowledge/traffic/equipment/scenery/machinery...(khong bao gio co _s voi nhug danh tu nay)=>V chia theo S so it
+     Ex: Traffic is heavy.
+
+7.Chu ngữ là nhóm danh từ chỉ số lượng (khoảng thời gian đo lường, trọng lượng,thể tích,số lượng)=>V chia theo S số it
+    Ex: twenty-two inches is a tiny waist measurement.
+
+    * Phân số/phần trăm +N(số ít) =>V chia theo S số ít Ex: A quarter of the cake is gone.
+                        +N số nhiều =>chia theo số nhiều
+    * tuong tu voi the majority of                     
+
+      
