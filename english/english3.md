@@ -156,8 +156,8 @@ II)INFINITIVES: dong tu nguyen the
    -được dủng sau các động từ khuyết thiếu và trợ động từ:can/could/will/shall/would/should/used to/had better/need/ought to/do/did....
    -trong cấu trúc : would rather +bare inf/had better.
 
- 3.To-infinitive:
- A. To infinitive sau động từ
+### 3.To-infinitive:
+## A. To infinitive sau động từ
    dạng 1:  V+to inf : mot so dong tu theo sau la to inf
    1. agree: đồng ý
 2. aim: nhằm mục đích
@@ -210,3 +210,168 @@ II)INFINITIVES: dong tu nguyen the
 
 51. beg: cầu khẩn
 52. prefer                       
+
+*Dang 2: V + O + to inf
+-DAnh từ ,đại từ làm tân ngữ theo sau rồi mới đến to inf
+Ex: She advised me to go to the english club.
+*1 số V:
+Advise
+ask
+Command : yeu câù ra lệch         allow
+expect: mong chờ 
+force: buộc 
+invite: mời
+need
+teach
+tell
+warn
+order
+request
+train
+permit:cho phép 
+cause: gây ra
+encourage:khuyến khích
+forbid:cấm
+instruct: chỉ dẫn
+oblige: bắt buộc
+want:muốn
+remind:nhắc nhở
+persuade:thuyết phục
+show
+# Notes
+ + allow / permit / advise/ recommend/ encourage + object + to infinitive
+   ex: she doesn't allow me to smoke in her room.
+ + allow/ permit/ recommend/ encourage/ advise + gerund
+   ex: she doesn't allow smoking in her room.
+
+Dạng 3 V + to inf/gerund
+ *nhóm 1 : V + to inf/gerund (không khac nghĩa)
+ -begin       -prefer     -can't stand
+ -start       -hate       -can't bear
+ -continue    -love       -intend
+ -like        -bother
+  ex: he began to laugh
+      he began laughing 
+  Chu ý:
+   -Không dùng it's beginning raining->it's beginning to rain.
+   - động từ nguyên mâu thường mang ý nghĩa mục đích dự đích tương lai trong khi danh động từ mang kinh nghiệm sẵn có 
+   Ex: 
+    I like to meet the public.(Tôi thấy rất thích gặp công chúng->nển găpj cần gặp)
+    I like meeting the public.(->tôi thấy rất vui và tôi luôn lam thế)
+
+ *nhóm 2 V +to inf/gerund (khác nghĩa)
+  remember,forgot,regret, try, stop, need,go on
+  a.need
+  -need to do =  it's necessary to do: can phải làm(mang nghĩa chử động)
+  -need doing = need to be done: cần phai đc làm (mang nghĩa bị động)
+  ex: Tom needs to work harder.   (It is necessary for Tom to work harder.)
+      The grass in front of the house needs cutting.(The grass in front of the house needs to be cut.)
+  b.stop
+  -stop to do=stop in order to do: dừng việc hiện tại làm việc khác
+  -stop doing=not to do something any longer:đừng lại việc đã(đang làm)
+  Ex: they stopped to look at the pictures.
+      they stopped smoking because it's bad for their health.
+
+  c.regret/remember/forget:
+   - Remember/forget/regret + to V:   Nhớ/quên/tiếc sẽ phải làm ji (ở hiện tại và tương lai).
+   Ex -Remember to send this letter (hãy nhớ gửi bức thư này). Don‟t forget to buy flowers (đừng quên mua hoa đấy)
+      -I regret to inform you that the train was canceled (tôi rất tiếc phải báo tin cho anh rằng chuyến tầu đã bị hủy bỏ)
+   - Remember/forget/regret + V-ing: nhớ/quên/tiếc đã làm ji(quá khứ)
+    ex: I paid her $2. I still remember that. I still remember paying her $2 (tôi nhớ đã trả cô ấy 2 đô la).
+        She will never forget meeting the Queen (cô ấy không bao giờ quên lần gặp nữ hoàng)
+        He regrets leaving school early. It is the biggest mistake in his life.
+  d.Try
+  -try to do: cố gắng làm
+  -try doing : thử làm
+        Ex:  She tries to pass the entrance exam to the college of pharmacy.
+             I‘ve got a terrible headache. I try taking some aspirins but they didn‘t help.
+  e.go on
+    go on doing sth:tiếp tục làm 1 việc ji đó .
+    go on to do sth:làm hay ns việc ji khác.
+    Ex: The Minister went on talking for two hours.
+        We must change our ways. We can‘t go on living like this.
+
+        After discussing the economy, the Minister went on to talk about foreign policy.
+  f. mean
+   mean+to V= intend to V : dự định làm ji đó 
+   mean+ V_ing = involve: bao gồm ,bao hàm ,có nghĩa là
+## B  To inf sau một tính từ : 
+  - trong cấu trúc sau : It + be + adj+ to inf
+  Ex:
+  -it's difficlut to find their house.        
+  - It‘s important to learn English.
+
+  có hai loại tương đương như sau:
+   = to inf     + be + ADJ
+     gerund  
+
+  Ex: It's exciting to play football.
+      = to play football is exciting.
+      = playing football is exciting.
+  -To infinitive s u 1 số tính từ:
+  Able, unable, happy, delighted (vui vẻ), easy, lovely, glad, sorry, eager (háo hức), amazed (ngạc nhiên), pleased (hài lòng), disappointed, surprised, willing (sẵn lòng), certain (chắc chắn)   
+
+  -Trong cấu trúc:
+  + S +be/get/look/seem/become...      + too+ adj+(for O) +to infi
+    S + V(thuong)   
+    Ex: the water in this glass is too hot for me to drink.
+        he runs too slowly to catch the bus.
+  + S + be        +adj    +enough(for O)+ to inf.
+    S + V thuowng +adv    +enough(for O) +to inf     
+    Ex: he is old enough to get married.
+        He's intelligent enough to get good marks.
+        They speak slowly enough to understand.
+  + so + adj + as + inf
+    ex:  he was so foolish as to leave his car unlocked.(foolish: dại dột)
+  + It + cost/take + O + to inf...
+    Ex: It would cost millions/take years to rebuild the catstle.(cáttle:lâu đài)
+
+  ## C. Sau 1 số từ để hỏi
+      -Verb + how/what/when/where/ which/why + infinitive
+      Nhưngx động từ sử dụng công thức này là ask,decide,discover,find out,forget,know,learn,remember,see,show + object, think, understand, want to know, wonder. 
+      Ex: He discovered how to open the safe.
+          I found out where to buy fruit cheaply.
+  ## D.Chi mục đích 
+   Ex: He tried to study hard (in order to / so as to/ to pass) every exam.
+  ## E. noun + to inf (replace a relative clause)
+  Ex: 1.I have many things which I must do/to do.
+      2.She is alaways the last (to go/who goes).
+  ## F. S + V + đại từ bát định + To V.
+   (anywhere, anybody, anything, somebody, something, somewhere, nobody, nothing, nowhere, everything, everybody, everywhere)  
+   Ex: Is there anywhere to go?
+       He has got nothing to eat.
+  ## G. Sau một số cụm từ sau:
+  be about:định, sẽ
+  be able: có thể
+  do one‘s best: cố gắng
+  make an/ every effort: nỗ lực
+  make up one‘s mind: quyết định
+  can‘t afford:không đủ khả năng
+     Ex: He is just about to leave
+     We can‟t afford to live in the centre
+
+  ## H Thay thế cho 1 mệnh đề quan hê:
+   -Động tư nguyên thể có thể đc sử dụng sau the first,the second,.. the last,the only vaf thỉnh thoảng sau so sánh hơn nhất.\
+   ex:     Ex: He loves parties; he is always the first who comes and the last who leaves.
+             = He loves parties; he is always the first to come and the last to leave
+               He is the second one to be killed in this way.
+### 4 the perfect inf
++  Form : to have + Vpp
++use:
+  -dùng với was/were để diễn tả một kế hoạch chưa thực hiện đc.
+  ex: the house was to have been ready today(but it isn't)
+  -dùng sau would/would like để diênx tả 1 điều uoc vân chưa hoàn thiện 
+  ex: he would like to have seen seen it (but it was impossible)
+  -dùng với 1 số động tư:  appear, happen, pretend, seem, believe, consider, find, know, report, say, suppose, think, understand…
+
+
+ III) PASSIVE INF AND GERUND:
+  - passive gerund :  being + past participle(bi dong)
+     ex: she hates being called a dull.
+         the mountain climbers are in a danger of being killed by an avalanche. 
+         I am interested in being given money by my mother.      
+  -passive inf : to be + past participle 
+    ex: I hoped to be invited to the party.  
+        He refused to be taken to hospital.      
+     -> Đuoc dùng để nhân mạnh sự kiên/hành đoọng hơn là nguyên nhân gây ra tác động.
+        
