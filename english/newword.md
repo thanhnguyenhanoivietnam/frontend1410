@@ -13,3 +13,11 @@ the majority : đa số
 the robber : tên cướp
 husband : chồng
 indict(v):truy tố
+appoint (v): bổ nhiệm ( ngoại động từ nếu ko tân ngữ -> bị động)
+sidewalk(n): vỉa hè
+decent(adj): tử tế
+give up: bỏ cuộc
+wallet: ví
+as soon as: càng sớm càng 
+legible(adj): dễ đọc
+retirement(n): nghỉ hưu
