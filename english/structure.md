@@ -13,4 +13,5 @@
 9 Possessive adjective: tính từ sở hữu đê ns một cái ji đó thuộc sở hữu của ai đó hoặc cái ji đó ,đứng trước danh tư và bổ nghĩa cho nó : My,your,his,her,its,our(của chúng tôi),their(của họ).
 10 Possessive pronoun(đại từ sở hữu):mine,your,his,hers,its,outs,theirs,Minh's
   ex:Her handbag is much more expensive than mine.
-11 Preposition: GIới từ những từ chỉ thời gian ,vị trí...   
+11 Preposition: GIới từ những từ chỉ thời gian ,vị trí...
+12 1 danh động từ cos thể đc use trong trươngf hợp giảm mênh đê chứa when(when explaining = when the teacher was explaining)  

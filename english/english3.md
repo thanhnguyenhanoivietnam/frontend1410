@@ -374,4 +374,165 @@ Dạng 3 V + to inf/gerund
     ex: I hoped to be invited to the party.  
         He refused to be taken to hospital.      
      -> Đuoc dùng để nhân mạnh sự kiên/hành đoọng hơn là nguyên nhân gây ra tác động.
-        
+## cau truc bo sung 
+ -Be used to doing sth = có thói quen làm ji hiện tại.
+ -usd to do sth= có thói quan ji trong quá khứ
+ -for doing sth : đi kèm mệnh đề chính để giải thích lý do việc đã đc đề cập ở mệnh đề chính.
+ -look forward to doing sth: trong mong làm việc ji (chưa xảy đến nếu V-ing looking)
+ - remember doing sth: nhớ răng minh đã làm ji(đã làm) khác bọt so vs V ing khác 
+   remember to do sth: nhớ phai làm gì (dùng để ra lệnh nhắc nhở)CD
+ - It's no good doing sth = làm việc ji ko có ích lợi ích ji đâu  
+ -It's no use doing sth : Thật vô ích khi làm việc ji
+ -sorry to do sth: xin lỗi hối tiếc vì đã làm ji
+ -mind sb/st doing sth: cảm thấy phiền lòng khi làm ji ( i don't mind being kept waiting BĐ)
+ -admit doing sth : nhận làm việc ji 
+ -consider doing sth: cân nhắc, xem xét làm việc ji
+ -escape doing sth: tránh đc việc ji
+ -object to (sb) doing sth: phan đối làm việc ji
+ -sau giới từ là 1 động từ ở dạng V-ing approve of -doing sth : đồng tình với việc làm gì 
+ -protection against/from + sb/sth :sự bảo vệ khỏi ai cái gì.
+ - it's kind/good of sb to do sth : Ai đó thật tốt khi làm gì 
+ - let sb do sth : để ai làm gì,cho phép
+ - be made to do sth : bị bắt phai làm gì (bị động)
+ - adj + enough to do sth : không đủ ... để làm gì(bị động-> enough to be vpp )
+ - advise sb to do sth : khuyên ai đó nên làm gì
+ - make a decision to do sth: quyết định làm gì 
+ -see sb do sth : nhin thay ai làm gì (cả quá trình)
+    see sb doing sth: nhìn thấy ai lam gì(đang diễn ra)
+ -khi một hành động theo liền sau 1 hanh đong khac vs cùng 1 chủ ngữ thi hd thu nhất đc diễn đạt bằng một hiên tại phân từ(danh động từ)
+ -want to do sth : muốn làm gì
+ -stop to do sth: dừng lại để làm việc ji 
+ -finish doing sth : chấm dứt làm việc gì
+ -1 động từ nguyên mẫu có thể dùng như 1 bô ngữ nếu có ý chi mục đích bôn phận hay sự cho phép.
+ -miss doing sth: bỏ lỡ việc làm ji
+ -consider doing sth : xem xét,cân nhắc làm gì
+ -cấu trúc bị động với consider : S + to be + considered+ to do sth
+ -risk doing sth: mạo hiểm làm gì
+ -notice sb do/doing sth: để ý ai làm việc ji 
+ -permit sb to do sth: cho phép ai làm gì
+ -force sb to do sth: bắt ép ai làm gì
+ -avoid doing sth: tránh làm việc gì -> cấu trúc bị động là + being Vpp sth  
+ -would you like + to do sth: thích làm gì
+ -despite doing sth:mặc dù
+ -forgot to V kiểu lời ns thông báo 
+ -expert to V : mong đợi làm gì (mong đợi đc thăng chức thì là bị động vpp)
+ -seem to do sth: có vẻ như
+ -so sánh had better do sth : nên làm gì 
+ -have sb do sth : nhờ ai làm ji
+ -want sb not to V: cảnh báo ai ko làm ji 
+ -sb to do sth : thuyết phục ai làm gì
+ -afford to do sth: đủ khả năng đủ điều kiện làm ji
+ -keep doing sth : liên tục làm gì
+ -for + to V mang nghĩa chỉ mục đích
+ -want to do sth: muốn làm gì
+ ### Bài tập
+# bài 1
+1. He is used to------------ up early in the morning.A. get ->B getting
+2. The boy was kept indoors----------- naughty.C. for being 
+3. I shall never forget-----------with you to Paris last year. A. staying    
+4. I am looking forward to -----------you.  D. all are wrong-> B. seeing 
+5. I am always remember------------ off the lights before I leave my house.  B. to turn
+6. I can remember---------- very proud and happy when I graduated.B. being 
+7. Did you remember------------ Jack my message?C. giving-> D. to give     
+8. What did you forget------------ before you left for class this morning?   B. doing  
+9. Don’t forget------------ your homework tonight! B. to do    
+10. It’s important--------------.  D. not to worry
+11. That book isn’t worth-----------.  B. reading 
+12. It’s no good---------- him the truth now.C. telling  
+13. It’s no use------------ you didn’t know. A. pretending 
+14. When I’m on holiday,I enjoy----------- to get up early. B. not having 
+15. Sorry ----------- you waiting so long.A. to keep   
+16. That’s all right. I don’t mind------------ waiting. D. being kept
+17. She admitted---------- the money.  D. having stolen?D .having stolen
+18. Would you mind----------- the door?C closing
+19. William suggested---------- to the cinema.  D. going
+20. Your shoes need------------. B. cleaning ->D A và B đúng Bị động và to be cleaned.
+21. Our house wants------------. D. A&B  are correct
+22. How about --------- a drink? B. having
+23. I suggest---------- at home for a change.A. staying      
+24. Do you consider---------- our friends on Sunday?A. to invite ->C inviting
+25. Would you mind ------------ me a hand?    D. giving
+26. We escaped----------- to the meeting.C being asked
+27. Why did she avoid----------you? B. meeting
+28. I prefer----------- to------------.C. walking-cycling      
+29. I ran ten kilometers without-----------.  B. stopping      
+30. He is quite used to ----------- .      D. working hard
+31. I strongly objected to----------- a fee for using my credit card.D. being charged
+32. We should avoid ----------- our environment.  C. polluting   
+33. Do you consider---------- another job? D. getting
+34. Nobody will approve of your----------- that way. B. behaving      
+35. The tender plants need----------- against the cold weather.   D. A&C are correct   
+36. ---------- natural resources is of great importance. B. Preserving 
+37. The exam is coming,so the teachers make their students--------- a lot. D. work(make+V-inf)
+ 38. Her parents want her--------- a doctor.A. to become    
+ 39. It is kind of you -----------me the direction.C to give
+ 40. The teacher never lets us ----------out when-----------.B go- explaining 
+ 41. Whenever I see an action film ,I feel my heart----------- strongly.A. thump 
+ 42. These employees are made----------- overtime.C. working   ?->B to work
+ 43. I think he is not reliable enough----------- our bussiness.   B. informing ?->C to be informed
+ 44. He advised me --------the facts before I made a decision------- the job.A. considering-accept ->D to consider - to accept    
+ 45. Look! Do you see an insect---------- on your foot.A. to crawling-> B crawling
+ 46. They spent two months------------- their house.C. renewing   
+ 47. Their company was made---------100,000 USD in taxes.A. paying ->B to pay
+48. We don’t have enough time--------- the essay so we asked the teacher for a delay.    C. to write    
+49. I caught her---------- my diary.A. reading      
+50. -----------, Mrs Pike took the baby in her arms.C. smiling happily     
+51. These workers stopped-------- some coffee because they felt sleepy.   C. having   ->A to have
+52. Due to having a lot of things----------- last night,we missed----------- the film.D to do - seeing 
+53. I want to travel because I enjoy---------- people and---------new places.  B. meeting/seeing      
+54. The council considers----------vehicles from the city center to relieve traffic jams and air pollution.  D. to banning->B banning 
+55. He risked -------- his house when his company went bankrupt. B. to lose   ?->C losing
+56. Did you notice someone---------the room last night?A enter
+57. Loyalty is considered---------- one of the important qualities for true friendship.    C. to be             
+58. Those tourists were too tired----------their journey.     B. to continue
+58. He didn’t permit them----------- through the military zone. He forced them---------another way.A. going/to go  ->B to go-to go
+59. His doctor advised him---------,but he found it impossible--------- his habit.     D. to stop smoking/to quit
+60. It takes three hours----------- to Paris.    D. to get
+61. They are whispering to avoid---------- by their friends.B. hearing  ->A.being heard
+62. I remember--------- my mother said the carpets needed----------.   B. to hear/cleaning  ->C hearing/cleaning       
+63. Would you like---------- me some tea?  B. making  ->D to make
+64. They reminded me---------- late. C. not to come   
+65. The police let him ---------- after they had asked him some questions.A. to leave  ->B leave     
+66. Would you mind---------- me your pocket calculator? C. lending  
+67. Despite--------- very rich, she is often generous to the poor.->B not being 
+68. She wanted-------- home but the boss made her---------- until she finished-------- those contracts.C. to go/staying/type     (CD BD)->A to go/stay/typing
+69. John suggested----------- to the new branch inVietnam.A. appointing->B being appointed
+70. Peter is not used to--------in front of the public. He often feels too nervous-----------anything.  D. speaking/to say
+71. Sorry. I forgot---------- this floppy disk to him. C. giving    ->B. to give (Sẽ phải làm ji )
+72. I hate-----------.C. being kept waiting->B. to be kept waiting    cả 2 có lẽ đều được 
+73. Everyone likes--------- when they have got some success.   D. being congratulated
+74. She expected-------- soon,but things seem---------wrong.A. promoting/going->C to be promoted - to go
+75. It is not worth--------- that computer. You had better--------- a new one.C. repairing/buying->B repairing / buy 
+76. ---------- farmers ---------- in the fields.A. Watching/works ->B Watch - work
+77. People didn’t let him -------- into the room. He was made---------- outside. B. come/to wait
+78. They will have some workers---------their house.->A. redecorate 
+79. He warned ---------anything.    D. not touching->C. me not to touch 
+79. He doesn’t allow--------- in his house. B. to smoke    
+80. They all denied-------- her.C. having ever seen    
+81. I tried----------- the window, but it seems not to work.    B. to open 
+82. I used to---------- outdoors. C. working ->A   work      
+83. I look forward to--------- home next week. B. going
+84. They made a decision----------- the city.   B. leave ->C  to leave(make a decision to do sth)    
+85. It’s very good of you---------- me how to start this engine.    C. to show        
+86. I’m used to ---------a glass of water before-------- to bed. B. drinking/go  ->D.drinking/going (before theo đt vế trc là V-ing)
+87. It’s no use----------- him-------------part in the competition. B. persuading/to take    
+88. I suggested--------a suit and tie when we went to the interview.D. wearing
+89. Let the boy---------- it himself before you offer to help.    D. tries?->A.try
+90. We regret------- you that you haven’t been selected  for the post of senior manager. D. to inform
+91. I don’t enjoy ----------- at by other people.C. being laughed  
+92. Ted managed------------ my mind.A. to change    
+93. I can’t afford----------- a new car.A. buying  ->B to buy 
+94. Julie finally admitted---------- responsible for the problem.   C. being         
+95. She keeps----------to visit us ,but she never does.A. to promise?->D promising 
+# B)
+96. Hellen borrowed my dictionary for look up the spelling of “occurrence”.B looking
+97. The teacher opened the windows for getting some fresh air in the room.?->C to get
+98. I need getting a part-time job to earn some money for my school expenses.A.getting->to get
+99. My mother made me to promise to write them once a week.C.made me promise
+100. To learn about another country it is very interesting.?->C bỏ ít vì to learn about another country là chủ ngữ rồi
+101. Most students want return home as soon as possible.?->B to return
+102. When I went to shopping , I saw a man to drive his car onto the sidewalk.C-> drive
+103. I asked my classmate to let me to use his shoes.C to use->use
+104. I am looking forward to go to swim in the ocean.B ->going
+105. I had the operator to put the call through for me.C to put ->put        
+
