@@ -1,3 +1,4 @@
+
 a pay rise : tang luong
 pocket : túi
 wallet : ví
@@ -21,3 +22,4 @@ wallet: ví
 as soon as: càng sớm càng 
 legible(adj): dễ đọc
 retirement(n): nghỉ hưu
+References(n): tài liệu tham khảo

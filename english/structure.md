@@ -14,4 +14,6 @@
 10 Possessive pronoun(đại từ sở hữu):mine,your,his,hers,its,outs,theirs,Minh's
   ex:Her handbag is much more expensive than mine.
 11 Preposition: GIới từ những từ chỉ thời gian ,vị trí...
-12 1 danh động từ cos thể đc use trong trươngf hợp giảm mênh đê chứa when(when explaining = when the teacher was explaining)  
+12 1 danh động từ cos thể đc use trong trươngf hợp giảm mênh đê chứa when(when explaining = when the teacher was explaining) 
+13 Nội động từ được định nghĩa đơn giản là một động từ không có tân ngữ trực tiếp. Điều đó có nghĩa là không có từ nào trong câu cho biết ai hoặc cái gì đã nhận hành động của động từ. 
+  Ví dụ: Annie laughed. (Annie đã cười) 
