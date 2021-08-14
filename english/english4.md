@@ -109,7 +109,7 @@ b. Cách dùng:mong muốn điều gì đó xảy ra hoặc muốn người nào
 Eg: I wish it would stop snowing.     
 Eg: I wish Mark would call me back.
 Eg: I wish more people would read my blog.
-Chú ý: I wish.... woud... được dùng khi nói về hành động và sự thay đổi,would không được nói về một tình trạng.
+Chú ý: I wish.... would... được dùng khi nói về hành động và sự thay đổi,would không được nói về một tình trạng.
 Eg: I wish something exciting would happen.
 
 ## PART C:Một số cấu trúc giả định khác
@@ -136,7 +136,7 @@ b/Điều không có thật ở quá khứ
   Eg: He looks /looked as though he hadn‘t a decent meal for a month.
   - Trong mệnh đề so sánh (mệnh đề chỉ cách thức và mệnh đề chính có cùng chủ ngữ), chúng ta có thể dùng as if /as though theo sau bởi một phân từ (present /past participle) hoặc động từ nguyên mẫu có to (to –infinitive).
 
-  2. It's time, It's high time
+2. It's time, It's high time
   It's time/it's high time có thể được theo sau bởi:
     a. Động từ nguyên mẫu có to (to-infinitive)
      It's time/ It's high time + (for + Object) + to-infinitive
@@ -273,3 +273,72 @@ c. Diễn tả sự việc ở hiện tại (present subjunctive):
 10. You can stay in the flat for free if you pay the bills. A. Provided you pay the bills, you can stay in the flat for free.
 11: She is now leading a normal life as a result of all the support she received from social workers.C. If she didn‘t receive all the support from social workers, she wouldn‘t be leading a normal life now.->D. Had she not received so much support from social workers, she wouldn‘t be leading such a normal life now.(điều kiện hỗn hợp)
 12. In my experiments, the liquid is cooled to 32ºF. It always freezes.C. If you cool the liquid to 32 degrees, it will freeze.
+
+## Exercise 4: Choose the best answer:
+1. I'm not very fit. I wish ______B. I were fitter
+2. It's very hot.A. I wish it were cooler.
+3. He likes to swim.->He wishes he ……………… near the sea.A. lived
+4. She wishes she ………………. blue eyes.B. had
+5. If only I ___ him now.B. saw
+6. I wish it ___ a holiday today.A. were
+7..What a pity I didn‘t meet you yesterday.C. If only I had met you yesterday.
+8.. Susan regretted not buying that villa.(hoi han)A. Susan wished she had bought that villa.
+9. It's a pity that you didn‘t tell us about this.C. I wish you had told us about this.
+10. He wishes he …………… buy a new car.->C. could(co the chu ko phai se)
+11. Those children are really noisy.D. Both A and C are correct
+12. She misses him. She wishes he ……………. her a letter.A. would send
+13. I wish I …….................... help you.C. could
+14. She wishes she ……………………. him yesterday D. had met
+15. Yesterday, John told me that he wishes he ________ harder in high school because then university might not be so difficult for him.C. had studied
+16. If only my motorbike………………broken down again, I would have arrived on time.B. hadn‘t
+17. I wish I _________ in prison, but I am C. weren't
+18. I wish you……………. make that noise, it‘s annoying!B. wouldn't
+19. I wish I……………………………. to the movies with you last night.D. could have gone->C ????
+20.. I hate Canadian winters. I wish I ______ in Hawai right now.D. were
+
+## Exercise 5: Choose the best option to complete these following sentences.
+1. Tom looked tired as though he __________very hard.D. had worked
+2. Henry talks with his dog as if it _________him.B. understood
+3. She sings as if she ________ a singer.A. were
+4. I feel as if my head ________fire now.A. were
+5. Mary dresses as if she _______ a queen.C. were
+6. She acted as if she_______ big amount of money.D. had had
+7. He spends his money as though he ________ a millionaire.A. were
+8. He talked about Paris as if he ____________there before.D. had been
+9. Tom acts as if he __________my boss.D. were
+10. He talked as if he __________ all the work himself, but in fact Tom and I did most of it.D. had done
+11. Barbara looked at me as though she ___________me before.C had never met
+12. She behaved as though she _________ crazy.B. had been 
+13. He treats us as if we__________ all idiots D. were 
+14. The spacemen felt as if he ______ in a paradise.A. had been
+15. He behaved as though he __________to the USA.B. had been
+16. I wish the more effective teaching method______ used.C. were
+17. She wishes she ______ a fairy now.B. were
+18. She spent money as if she always______ plenty of it.C. had had
+19. Mr Nam ate as if he ________anything for days C. hadn‘t eaten
+20. She walks as if she_______ a wooden leg.C. had
+
+## Exercise 6: Choose the correct answer
+1. I ______watch the football game than basketball game B. would rather
+2. Jane would rather that it ______ winter now. A. were
+3. Would you rather ______ in ink or in pencil? A. write
+4. I would rather that you ______ me tomorrow.A. call
+5. Henry would rather that his girlfriend ______in the same department as he does.A. work->D. worked
+6. It‘s time you _________the house.A. paint ->B painted
+7. Bob would rather that Jill ______ to class yesterday.C. had gone
+8. It‘s time we all......................... now.D. went
+9. John would rather ________ than worked last night.C. have slept 
+10. It‘s time __________a car.C. to buy
+
+{should be or be}
+## Exercise 7: Choose the best answer
+1. I requested that he ………….. the work on time.C. finish
+2. It is necessary that she ………….. the club.Ajoin
+3. The doctor suggested that the patient ………….. smoking.D. both A and B are correct
+4. It is important that you ……….. on time.D. come
+5. It is necessary that she ………….. the housework.A. do
+6. They requested that I …………early.D. A or B
+7. It is our wish that he…………… what he please.C. do
+8. I propose that the minutes of the previous meeting……….. read.B. be
+9. The court ordered that the man ………….. released.A. be
+10. It is essential that he ……….. the bike.B. should repair
